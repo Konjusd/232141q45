@@ -1,0 +1,10 @@
+img{
+    object-fit: cover;
+    vertical-align: middle;
+    border-style: none;
+    height: 70vh;
+}
+.carousel-caption d-none d-md-block{
+    background-size: cover;
+
+}
